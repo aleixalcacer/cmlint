@@ -1,0 +1,2 @@
+# cmlint
+Commit Message Linter
