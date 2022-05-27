@@ -20,4 +20,3 @@ def cmlint(path):
     else:
         print("Commit message is valid! \U0001F973 ")
         sys.exit(0)
-
