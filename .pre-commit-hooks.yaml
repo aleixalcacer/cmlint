@@ -1,0 +1,7 @@
+- id: cmlint
+  name: cmlint
+  description: "Commit Message Linter"
+  entry: cmlint
+  language: python
+  always_run: true
+  stages: [commit-msg]
